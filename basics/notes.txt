@@ -1,0 +1,5 @@
+* Container - Vector
+** Functions 
+	front,back,begin,end,at,insert,delete,swap,erase,clear,empty
+** Algorithms
+	sort,stable_sort,binary_Search,upper_bound,lower_bound,count,count_if,    find,find_if,unique,unique_copy,reverse,reverse_copy,transform,rotate.	
